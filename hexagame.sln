@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DD706AC3-2854-FBA6-3E0E-2F03BC8F9549}") = "hexagame", "Assembly-CSharp.csproj", "{58E3FD45-9081-2867-8781-4785604CAB52}"
+EndProject
+Project("{DD706AC3-2854-FBA6-3E0E-2F03BC8F9549}") = "hexagame", "Assembly-CSharp-Editor.csproj", "{4EBF953F-621B-2209-F4AB-CB6D6B16C668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58E3FD45-9081-2867-8781-4785604CAB52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E3FD45-9081-2867-8781-4785604CAB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E3FD45-9081-2867-8781-4785604CAB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E3FD45-9081-2867-8781-4785604CAB52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EBF953F-621B-2209-F4AB-CB6D6B16C668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBF953F-621B-2209-F4AB-CB6D6B16C668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBF953F-621B-2209-F4AB-CB6D6B16C668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBF953F-621B-2209-F4AB-CB6D6B16C668}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
